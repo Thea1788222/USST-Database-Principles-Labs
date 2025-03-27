@@ -398,3 +398,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+#忽略实验图片目录
+Lab1-SQL-Basic-Query/Pictrues/
+Lab2-Advanced-Query/Pictrues/
+#忽略本地自留的实验报告
+数据库实验报告本地自留版/
